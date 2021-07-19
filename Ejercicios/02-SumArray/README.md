@@ -13,4 +13,7 @@ El objetivo del ejercicio es encontrar si la combinación de dos números cuales
 **arreglo**: [2,4,5,9]     
 **número**: 12        
 **return**: false
+<<<<<<< HEAD
 
+=======
+>>>>>>> b53357a7d1c8cb7930f8bdbefd842d4527b0f003
