@@ -18,8 +18,4 @@ Es decir, el objetivo del ejercicio es determinar si el primer string, needle, e
 En este caso, como el needle no se encuentra en el haystack el valor de salida es -1.
 
 #### IMPORTANTE
-<<<<<<< HEAD
 Para la resolución de este ejercicio no se puede utilizar la función preexistente: <b>indexOf( )</b>
-=======
-Para la resolución de este ejercicio no se puede utilizar la función preexistente: <b>indexOf( )</b
->>>>>>> b53357a7d1c8cb7930f8bdbefd842d4527b0f003
