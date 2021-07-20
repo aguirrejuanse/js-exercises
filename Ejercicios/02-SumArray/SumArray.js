@@ -8,3 +8,20 @@ function SumArray(arr, n) {
   }
   return false;
 }
+
+function SumArray2(arr, n) {
+
+  let i = 0;
+  let j = arr.length - 1;
+  while(i < j){
+    if(arr[i] + arr[j] === n){
+      return true;
+    }
+    if(arr[i] + arr[j] < n){
+      i++;
+    }else{
+      j--;
+    }
+  }
+  return false;
+}
